@@ -1,21 +1,21 @@
 # Snow
 User friendly. Stepping into a new Dimension.
 <h1 align="center">Hi 👋, I'm RegiSnow</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A Data Scientist and Analyst from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regisnow&label=Profile%20views&color=0e75b6&style=flat" alt="regisnow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regisnow" alt="regisnow" /></a> </p>
 
-- 🔭 I’m currently learning **Data Analyics**
+- 🔭 I’m currently learning **R**
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **ML Language**
 
 - 👯 I’m looking to collaborate on **Open-source project**
 
-- 🤝 I’m looking for help with **python**
+- 🤝 I’m looking for help with **R**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **Collabs**
 
 - 📫 How to reach me **regiusgoodlive@gmail.com**
 
